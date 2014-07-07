@@ -3,6 +3,10 @@
   "version": "0.2.1",
   "description": "",
   "main": "index.js",
+  "bin": {
+    "easyrun": "./bin/easyrun",
+    "easyrun-push": "./bin/easyrun-push"
+  },
   "dependencies": {
     "nodestalker": "~0.1.8",
     "optimist": "~0.6.0"
