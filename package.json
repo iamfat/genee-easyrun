@@ -1,0 +1,23 @@
+{
+  "name": "genee-easyrun",
+  "version": "0.2.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nodestalker": "~0.1.8",
+    "optimist": "~0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamfat/genee-easyrun.git"
+  },
+  "author": "Jia Huang <jia.huang@geneegroup.com>",
+  "contributors": [
+    "Xiaopei Li <xiaopei.li@geneegroup.com> (http://xiaopei.li/)"
+  ],
+  "license": "MIT"
+}
